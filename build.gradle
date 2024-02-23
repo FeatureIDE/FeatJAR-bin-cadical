@@ -1,0 +1,13 @@
+plugins {
+    id 'de.featjar.java-library'
+}
+
+dependencies {
+    api 'de.featjar:base'
+}
+
+license {
+    ext {
+        url = 'https://github.com/FeatureIDE/FeatJAR-bin-cadical'
+    }
+}

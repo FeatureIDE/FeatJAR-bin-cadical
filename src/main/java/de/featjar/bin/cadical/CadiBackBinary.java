@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2023 Sebastian Krieter, Elias Kuiter
+ * Copyright (C) 2024 FeatJAR-Development-Team
  *
  * This file is part of FeatJAR-bin-cadical.
  *
@@ -38,5 +38,4 @@ public class CadiBackBinary extends ABinary {
     public LinkedHashSet<String> getResourceNames() {
         return HostEnvironment.isWindows() ? Sets.of("") : Sets.of("cadiback");
     }
-
 }

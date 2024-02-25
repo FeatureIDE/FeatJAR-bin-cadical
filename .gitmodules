@@ -3,4 +3,4 @@
 	url = https://github.com/arminbiere/cadical
 [submodule "cadiback"]
 	path = cadiback
-	url = git@github.com:arminbiere/cadiback.git
+	url = git@github.com:skrieter/cadiback.git
